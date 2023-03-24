@@ -1,0 +1,15 @@
+/Users/mac/Projects/Colection/Colection/bin/Debug/net7.0/Colection
+/Users/mac/Projects/Colection/Colection/bin/Debug/net7.0/Colection.deps.json
+/Users/mac/Projects/Colection/Colection/bin/Debug/net7.0/Colection.runtimeconfig.json
+/Users/mac/Projects/Colection/Colection/bin/Debug/net7.0/Colection.dll
+/Users/mac/Projects/Colection/Colection/bin/Debug/net7.0/Colection.pdb
+/Users/mac/Projects/Colection/Colection/obj/Debug/net7.0/Colection.csproj.AssemblyReference.cache
+/Users/mac/Projects/Colection/Colection/obj/Debug/net7.0/Colection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/Colection/Colection/obj/Debug/net7.0/Colection.AssemblyInfoInputs.cache
+/Users/mac/Projects/Colection/Colection/obj/Debug/net7.0/Colection.AssemblyInfo.cs
+/Users/mac/Projects/Colection/Colection/obj/Debug/net7.0/Colection.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/Colection/Colection/obj/Debug/net7.0/Colection.dll
+/Users/mac/Projects/Colection/Colection/obj/Debug/net7.0/refint/Colection.dll
+/Users/mac/Projects/Colection/Colection/obj/Debug/net7.0/Colection.pdb
+/Users/mac/Projects/Colection/Colection/obj/Debug/net7.0/Colection.genruntimeconfig.cache
+/Users/mac/Projects/Colection/Colection/obj/Debug/net7.0/ref/Colection.dll

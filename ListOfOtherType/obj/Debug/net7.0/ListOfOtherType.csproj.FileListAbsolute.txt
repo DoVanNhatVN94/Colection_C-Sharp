@@ -1,0 +1,15 @@
+/Users/mac/Projects/Colection/ListOfOtherType/bin/Debug/net7.0/ListOfOtherType
+/Users/mac/Projects/Colection/ListOfOtherType/bin/Debug/net7.0/ListOfOtherType.deps.json
+/Users/mac/Projects/Colection/ListOfOtherType/bin/Debug/net7.0/ListOfOtherType.runtimeconfig.json
+/Users/mac/Projects/Colection/ListOfOtherType/bin/Debug/net7.0/ListOfOtherType.dll
+/Users/mac/Projects/Colection/ListOfOtherType/bin/Debug/net7.0/ListOfOtherType.pdb
+/Users/mac/Projects/Colection/ListOfOtherType/obj/Debug/net7.0/ListOfOtherType.csproj.AssemblyReference.cache
+/Users/mac/Projects/Colection/ListOfOtherType/obj/Debug/net7.0/ListOfOtherType.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/Colection/ListOfOtherType/obj/Debug/net7.0/ListOfOtherType.AssemblyInfoInputs.cache
+/Users/mac/Projects/Colection/ListOfOtherType/obj/Debug/net7.0/ListOfOtherType.AssemblyInfo.cs
+/Users/mac/Projects/Colection/ListOfOtherType/obj/Debug/net7.0/ListOfOtherType.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/Colection/ListOfOtherType/obj/Debug/net7.0/ListOfOtherType.dll
+/Users/mac/Projects/Colection/ListOfOtherType/obj/Debug/net7.0/refint/ListOfOtherType.dll
+/Users/mac/Projects/Colection/ListOfOtherType/obj/Debug/net7.0/ListOfOtherType.pdb
+/Users/mac/Projects/Colection/ListOfOtherType/obj/Debug/net7.0/ListOfOtherType.genruntimeconfig.cache
+/Users/mac/Projects/Colection/ListOfOtherType/obj/Debug/net7.0/ref/ListOfOtherType.dll

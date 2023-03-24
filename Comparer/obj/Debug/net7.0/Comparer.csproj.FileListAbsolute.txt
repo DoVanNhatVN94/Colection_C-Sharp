@@ -1,0 +1,15 @@
+/Users/mac/Projects/Colection/Comparer/bin/Debug/net7.0/Comparer
+/Users/mac/Projects/Colection/Comparer/bin/Debug/net7.0/Comparer.deps.json
+/Users/mac/Projects/Colection/Comparer/bin/Debug/net7.0/Comparer.runtimeconfig.json
+/Users/mac/Projects/Colection/Comparer/bin/Debug/net7.0/Comparer.dll
+/Users/mac/Projects/Colection/Comparer/bin/Debug/net7.0/Comparer.pdb
+/Users/mac/Projects/Colection/Comparer/obj/Debug/net7.0/Comparer.csproj.AssemblyReference.cache
+/Users/mac/Projects/Colection/Comparer/obj/Debug/net7.0/Comparer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/Colection/Comparer/obj/Debug/net7.0/Comparer.AssemblyInfoInputs.cache
+/Users/mac/Projects/Colection/Comparer/obj/Debug/net7.0/Comparer.AssemblyInfo.cs
+/Users/mac/Projects/Colection/Comparer/obj/Debug/net7.0/Comparer.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/Colection/Comparer/obj/Debug/net7.0/Comparer.dll
+/Users/mac/Projects/Colection/Comparer/obj/Debug/net7.0/refint/Comparer.dll
+/Users/mac/Projects/Colection/Comparer/obj/Debug/net7.0/Comparer.pdb
+/Users/mac/Projects/Colection/Comparer/obj/Debug/net7.0/Comparer.genruntimeconfig.cache
+/Users/mac/Projects/Colection/Comparer/obj/Debug/net7.0/ref/Comparer.dll

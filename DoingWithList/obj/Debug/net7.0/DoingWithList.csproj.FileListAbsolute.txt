@@ -1,0 +1,15 @@
+/Users/mac/Projects/Colection/DoingWithList/bin/Debug/net7.0/DoingWithList
+/Users/mac/Projects/Colection/DoingWithList/bin/Debug/net7.0/DoingWithList.deps.json
+/Users/mac/Projects/Colection/DoingWithList/bin/Debug/net7.0/DoingWithList.runtimeconfig.json
+/Users/mac/Projects/Colection/DoingWithList/bin/Debug/net7.0/DoingWithList.dll
+/Users/mac/Projects/Colection/DoingWithList/bin/Debug/net7.0/DoingWithList.pdb
+/Users/mac/Projects/Colection/DoingWithList/obj/Debug/net7.0/DoingWithList.csproj.AssemblyReference.cache
+/Users/mac/Projects/Colection/DoingWithList/obj/Debug/net7.0/DoingWithList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/Colection/DoingWithList/obj/Debug/net7.0/DoingWithList.AssemblyInfoInputs.cache
+/Users/mac/Projects/Colection/DoingWithList/obj/Debug/net7.0/DoingWithList.AssemblyInfo.cs
+/Users/mac/Projects/Colection/DoingWithList/obj/Debug/net7.0/DoingWithList.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/Colection/DoingWithList/obj/Debug/net7.0/DoingWithList.dll
+/Users/mac/Projects/Colection/DoingWithList/obj/Debug/net7.0/refint/DoingWithList.dll
+/Users/mac/Projects/Colection/DoingWithList/obj/Debug/net7.0/DoingWithList.pdb
+/Users/mac/Projects/Colection/DoingWithList/obj/Debug/net7.0/DoingWithList.genruntimeconfig.cache
+/Users/mac/Projects/Colection/DoingWithList/obj/Debug/net7.0/ref/DoingWithList.dll
